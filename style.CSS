@@ -1,0 +1,11 @@
+/**{border: solid;}*/
+.games{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+h1{ display: flex;
+    justify-content: space-evenly;}
+.social{display: flex;
+       justify-content: flex-end;             }
